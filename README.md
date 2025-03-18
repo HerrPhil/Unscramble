@@ -19,3 +19,8 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+Retrospective
+-------------
+This codelab well-structured and delivered the tasks of implementing UDF very clearly.
